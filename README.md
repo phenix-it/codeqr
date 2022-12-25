@@ -5,7 +5,7 @@
 
 1. Ajouter un bouton dans login.html
 ```html
-<button onclick="window.location='https://phenix-it.github.io/qrcode';">QR Code</button>
+<button onclick="window.location='https://phenix-it.github.io/qr';">QR Code</button>
 ```
 2. Ajouter le script suivant dans MikroTik via le Terminal.
 ```
